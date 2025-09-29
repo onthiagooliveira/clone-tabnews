@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>O homem de decisão não pode ser detido. O homem indeciso não pode iniciar</h1>
+  return <h1>"Os meios de aprendizagem são abundantes, o desejo de aprender é escasso". Naval Havikant</h1>
 };
 
 export default Home;
